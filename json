@@ -1,0 +1,49 @@
+{
+  "people": [
+    {
+      "house": "1",
+      "age": 36,
+      "name": "Ameer Bennett",
+      "gender": "male",
+      "email": "Ameer@gmail.com",
+      "phone": "+1 321-399-0696",
+      "address": "2034 Crestview Terrace, ON"
+    },
+    {
+      "house": "2",
+      "age": 24,
+      "name": "Ashleigh Bonilla",
+      "gender": "female",
+      "email": "Ashleigh@gmail.com",
+      "phone": "+1 234-440-7337",
+      "address": "2135 Crestview Terrace, ON"
+    },
+    {
+      "house": "3",,
+      "age": 30,
+      "name": "Andre  Blake",
+      "gender": "male",
+      "email": "Andre@gmail.com",
+      "phone": "+1 629-834-5173",
+      "address": "2236 Crestview Terrace, ON"
+    },
+    {
+      "house": "4",
+      "age": 38,
+      "name": "Arron Burris",
+      "gender": "male",
+      "email": "Arron@gmail.com",
+      "phone": "+1 209-833-0056",
+      "address": "2337 Crestview Terrace, ON"
+    },
+    {
+      "house": "5",
+      "age": 29,
+      "name": "Andy  Banner",
+      "gender": "male",
+      "email": "Andy@gmail.com",
+      "phone": "+1 505-688-3499",
+      "address": "2434 Crestview Terrace, ON"
+    }
+  ]
+}
